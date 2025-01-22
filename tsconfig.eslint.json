@@ -1,0 +1,9 @@
+{
+    "extends": "./tsconfig",
+    "compilerOptions": {
+        "jsx": "react",
+        "module": "commonjs"
+    },
+    "exclude": [],
+    "include": ["src", "vite.config.ts"]
+}
